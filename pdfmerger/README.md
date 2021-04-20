@@ -1,0 +1,2 @@
+# PDF Merger
+This docker image merges all PDF files in the directory `pdffiles` in alphabetical order and generates a file `merged.pdf`. I found this tool useful since merging PDFs is straight forward in Ubuntu, but not as much under Windows.
